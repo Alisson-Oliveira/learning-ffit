@@ -1,0 +1,40 @@
+{
+  "applications": [
+    {
+      "name": "@ffit/test-react-header",
+      "package": "@ffit/test-react-header",
+      "activeWhen": "/",
+      "exact": false
+    },
+    {
+      "name": "@ffit/test-react-single",
+      "package": "@ffit/test-react-single",
+      "activeWhen": "/test-1",
+      "exact": true
+    },
+    {
+      "name": "@ffit/test-react-router",
+      "package": "@ffit/test-react-router",
+      "activeWhen": "/test-2",
+      "exact": false
+    },
+    {
+      "name": "@ffit/test-react-parcel-add",
+      "package": "@ffit/test-react-parcel-add",
+      "activeWhen": "/test-3",
+      "exact": true
+    },
+    {
+      "name": "@ffit/test-react-lazy",
+      "package": "@ffit/test-react-lazy",
+      "activeWhen": "/test-4",
+      "exact": false
+    },
+    {
+      "name": "@single-spa/welcome",
+      "package": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+      "activeWhen": "/",
+      "exact": true
+    }
+  ]
+}
