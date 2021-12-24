@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1cb5709.chunk.css",
+    "main.js": "/static/js/main.e92e7bba.chunk.js",
+    "main.js.map": "/static/js/main.e92e7bba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c457f1f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c457f1f8.js.map",
+    "static/js/2.b35f3864.chunk.js": "/static/js/2.b35f3864.chunk.js",
+    "static/js/2.b35f3864.chunk.js.map": "/static/js/2.b35f3864.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c1cb5709.chunk.css.map": "/static/css/main.c1cb5709.chunk.css.map",
+    "static/js/2.b35f3864.chunk.js.LICENSE.txt": "/static/js/2.b35f3864.chunk.js.LICENSE.txt",
+    "static/media/image-apple-1.aee44a65.png": "/static/media/image-apple-1.aee44a65.png",
+    "static/media/image-edidier-1.08e8733f.png": "/static/media/image-edidier-1.08e8733f.png",
+    "static/media/image-hyperx-1.4a24772c.png": "/static/media/image-hyperx-1.4a24772c.png",
+    "static/media/image-jbl-1.0e36641e.png": "/static/media/image-jbl-1.0e36641e.png",
+    "static/media/image-jbl-2.7356689d.png": "/static/media/image-jbl-2.7356689d.png",
+    "static/media/image-jbl-3.f859aa20.png": "/static/media/image-jbl-3.f859aa20.png",
+    "static/media/image-sony-1.89ffc3b1.png": "/static/media/image-sony-1.89ffc3b1.png",
+    "static/media/image-sony-2.59755030.png": "/static/media/image-sony-2.59755030.png",
+    "static/media/image-tribit-1.5ee00bbd.png": "/static/media/image-tribit-1.5ee00bbd.png",
+    "static/media/image-xiaomi-1.f5d616b5.png": "/static/media/image-xiaomi-1.f5d616b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c457f1f8.js",
+    "static/js/2.b35f3864.chunk.js",
+    "static/css/main.c1cb5709.chunk.css",
+    "static/js/main.e92e7bba.chunk.js"
+  ]
+}

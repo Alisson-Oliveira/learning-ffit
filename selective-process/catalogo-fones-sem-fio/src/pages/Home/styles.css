@@ -1,0 +1,27 @@
+#container-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  width: 100vw;
+  max-width: 1200px;
+
+  padding: 64px 0;
+  margin: auto;
+}
+
+#container-home header {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#container-home article {
+  font-size: 24px;
+  margin: 48px 0;
+}
+
+#container-home footer {
+  margin-top: 64px;
+  font-weight: bold;
+}

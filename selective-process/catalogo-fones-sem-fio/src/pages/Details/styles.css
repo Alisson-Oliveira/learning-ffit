@@ -1,0 +1,12 @@
+#container-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  width: 100vw;
+  max-width: 1200px;
+
+  padding: 64px 0;
+  margin: auto;
+}
